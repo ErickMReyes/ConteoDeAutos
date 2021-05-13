@@ -2,7 +2,8 @@
 
  Instalar Python y OpenCV
  
-https://drive.google.com/file/d/1OZtig_sCWHfgJbT2irtoo1YnHo7hCrgq/view?usp=sharing
+ Vídeo utilizado para el contador:
+ https://drive.google.com/file/d/1OZtig_sCWHfgJbT2irtoo1YnHo7hCrgq/view?usp=sharing
 
-
-https://www.youtube.com/c/OMES-va
+ Canal de donde se saco la información:
+ https://www.youtube.com/c/OMES-va
