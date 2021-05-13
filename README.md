@@ -15,9 +15,11 @@
  
  -Descripción del proyecto:
  
- Vídeo utilizado para el contador:
+ Proyecto final de Inteligencia Artificial decidimos realizar una inteligencia que detecta los automóviles que pasan por cierta área. Este trabajo lee el video de   entrada. En cuanto a la selección del área con la que se va a trabajar, depende del video que se utiliza y configurar que parte en específico se va a elegir, en esta descripción dejamos el enlace de descarga del que se utilizó. La detección de los autos con ayuda de la sustracción de fondo y por último un contador para saber cuántos autos pasaron. 
+ 
+ -Vídeo utilizado para el contador:
  https://drive.google.com/file/d/1OZtig_sCWHfgJbT2irtoo1YnHo7hCrgq/view?usp=sharing
 
- Canal de donde se sacó la información:
+- Canal de donde se sacó la información:
  https://www.youtube.com/c/OMES-va
  
