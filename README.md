@@ -8,5 +8,5 @@
  Vídeo utilizado para el contador:
  https://drive.google.com/file/d/1OZtig_sCWHfgJbT2irtoo1YnHo7hCrgq/view?usp=sharing
 
- Canal de donde se saco la información:
+ Canal de donde se sacó la información:
  https://www.youtube.com/c/OMES-va
