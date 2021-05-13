@@ -1,6 +1,6 @@
 # Conteo De Autos
 
-<a href="https://imgflip.com/gif/59gf0l"><img src="https://i.imgflip.com/59gf0l.gif" width="350" height="250"/></a>
+<a href="https://imgflip.com/gif/59gf0l" align="center"><img src="https://i.imgflip.com/59gf0l.gif" width="350" height="250" align="center"/></a>
 
  Equipo de proyecto:
  Johan Oliver Chan Chi y Erick Medina Reyes
