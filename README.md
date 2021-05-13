@@ -1,4 +1,7 @@
-# ConteoDeAutos
+# Conteo De Autos
+
+ Equipo de proyecto:
+ Johan Oliver Chan Chi y Erick Medina Reyes
 
  Instalar Python y OpenCV
  
