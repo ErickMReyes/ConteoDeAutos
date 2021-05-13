@@ -9,7 +9,9 @@
  
  Instalar Python y OpenCV en su ordenar.
  
- Abrir IDLE de python y abrir el archivo
+ Abrir IDLE de python y abrir el archivo conteo_de_autos.py.
+ 
+ Ejecutar con F5 o en la barra en Run > Run Module
  
  -Descripción del proyecto:
  
